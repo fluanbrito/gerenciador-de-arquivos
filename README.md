@@ -25,21 +25,15 @@ Por fim, o código define uma classe Diretorio que é usada para criar uma inter
 
 
 ## ✅ Resultado (Preview)
-<br>
 
 ### Início
 ![Início](https://i.imgur.com/o9BiZVm.png)
-
 <br>
-
 ### Funções
 ![Funções](https://i.imgur.com/ZjNW717.png)
-
 <br>
-
 ### Exemplo de execução da função 4
 ![Exemplo](https://i.imgur.com/p3olc57.png)
-
 ## 💻 Autor
 
 - [@Luan Ferreira](https://github.com/fluanbrito)
